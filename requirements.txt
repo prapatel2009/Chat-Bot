@@ -1,0 +1,11 @@
+streamlit
+google-genai
+numpy
+scikit-learn
+pdfplumber
+python-docx
+pandas
+beautifulsoup4
+requests
+tiktoken
+faiss-cpu
